@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="submit">Проверить</string>
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+    <string name="close_button">Close button</string>
+    <string name="restart_button">Restart button</string>
+    <string name="share_button">Share button</string>
+    <string name="inet_status">Нету интернет соединения.</string>
 </resources>
